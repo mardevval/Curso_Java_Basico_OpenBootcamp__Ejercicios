@@ -7,6 +7,7 @@ public class TipoDatos {
 
         // INTEGERS
 
+
         byte variable1 = 10;
         System.out.println(variable1);
 
@@ -20,7 +21,6 @@ public class TipoDatos {
         System.out.println(variable4);
 
 
-
         // DECIMALS
 
         float variable5 = 37.7f;
@@ -30,7 +30,6 @@ public class TipoDatos {
         System.out.println(variable6);
 
 
-
         // BOOLEANS
 
         boolean variable7 = true;
@@ -38,7 +37,6 @@ public class TipoDatos {
 
         boolean variable8 = false;
         System.out.println(variable8);
-
 
 
         // CHARACTERS

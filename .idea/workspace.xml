@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b43ad5-b5a0-4a10-ab6a-172691d7a14f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/openBootCamp/ejercicios_parte2/Operadores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atajos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Atajos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openBootCamp/ejercicios_parte2/TipoDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openBootCamp/ejercicios_parte2/TipoDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,40 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.Operadores">
+    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openBootCamp.ejercicios_parte2.Operadores" />
+      <module name="Curso_Java_Basico_OpenBootcamp__ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openBootCamp.ejercicios_parte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipoDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openBootCamp.ejercicios_parte2.TipoDatos" />
+      <module name="Curso_Java_Basico_OpenBootcamp__ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openBootCamp.ejercicios_parte2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Operadores" />
+        <item itemvalue="Application.TipoDatos" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
